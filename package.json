@@ -1,0 +1,27 @@
+{
+  "name": "restfapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubabramzan96/restful-api.git"
+  },
+  "author": "salli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubabramzan96/restful-api/issues"
+  },
+  "homepage": "https://github.com/rubabramzan96/restful-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.14.3"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
